@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565082636 source:c:\users\harsh\onedrive\desktop\game_v1.0.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
